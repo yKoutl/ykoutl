@@ -2,7 +2,7 @@
 
 ### 🚀 Estudiante de Ingeniería Informática @ URP | Full Stack Developer | Aspirante a Data Analyst
 
-Actualmente en mi **8vo ciclo**, enfocado en el desarrollo de software escalable y soluciones de ingeniería sostenible. Combino el desarrollo **Frontend (React)** con integraciones robustas de **Firebase** y **IA**.
+Actualmente en mi **9no ciclo**, enfocado en el desarrollo de software escalable y soluciones de ingeniería sostenible. Combino el desarrollo **Frontend (React)** con integraciones robustas de **Firebase** y **IA**.
 
 ---
 
@@ -37,14 +37,9 @@ Actualmente en mi **8vo ciclo**, enfocado en el desarrollo de software escalable
   <img src="https://github-readme-stats.vercel.app/api?username=ykoutl&show_icons=true&theme=radical&count_private=true" alt="Stats de Raul" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykoutl&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
-
-> **Nota sobre WakaTime:** Para mostrar tus horas de código, recuerda configurar tu usuario en:
-> `https://github-readme-stats.vercel.app/api/wakatime?username=ykoutl&layout=compact&theme=radical`
-
 ---
 
 ### 📫 Conectemos
 
 * **Portafolio**: [ykoutl.github.io](https://ykoutl.github.io)
-* **LinkedIn**: [Raul Quintana](https://linkedin.com/in/tu-perfil) *(Asegúrate de actualizar este link)*
-* **Ubicación**: Villa María del Triunfo, Lima 🇵🇪
+* **LinkedIn**: [Raul Quintana](https://linkedin.com/in/tu-perfil) 
