@@ -1,9 +1,13 @@
-# <p align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hola,%20soy%20Raul%20Quintana%20🚀&fontSize=50&animation=fadeIn&fontColor=58a6ff&fontFamily=Inter)</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Raul+Quintana" alt="Raul Quintana typing effect" />
+</p>
 
 ### 👨‍💻 Sobre mí
-Soy estudiante de **9no ciclo de Ingeniería Informática** en la **Universidad Ricardo Palma (URP)**. Me especializo en el desarrollo de software escalable, integrando **IA** y soluciones de **Ingeniería Sostenible**. Actualmente colaboro en proyectos de impacto real como Full Stack Developer y aspiro a especializarme en **Data Analysis**.
 
----
+Soy estudiante de **9no ciclo de Ingeniería Informática** en la **Universidad Ricardo Palma (URP)**.  
+Me especializo en el desarrollo de software escalable, integrando **IA** y soluciones de **Ingeniería Sostenible**.  
+
+Actualmente colaboro en proyectos de impacto real como Full Stack Developer y aspiro a especializarme en **Data Analysis**.
 
 ### 🛠️ Tech Stack & Skills
 
@@ -36,10 +40,9 @@ Soy estudiante de **9no ciclo de Ingeniería Informática** en la **Universidad 
 ### 📊 Estadísticas de Desarrollo
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ykoutl&show_icons=true&theme=radical&count_private=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykoutl&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=ykoutl&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ykoutl&theme=radical" />
 </p>
-
 ---
 
 ### 📫 Conectemos
