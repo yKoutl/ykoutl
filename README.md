@@ -25,15 +25,120 @@ Actualmente colaboro en proyectos de impacto real como Full Stack Developer y as
 
 ---
 
-### 📂 Proyectos Relevantes
 
-* **🌍 [Nos Planet Web](https://github.com/ykoutl/nosplanet-web)**: Plataforma de ingeniería sostenible (React + WordPress REST API).
-* **♻️ [Recycle Web](https://github.com/ykoutl/recycle-web)**: Panel Admin y Landing Page para Nos Planet S.A.C.
-* **⚽ [Escuela Milan VMT](https://github.com/ykoutl/escuela-milan-vmt)**: Gestión deportiva con React, Firebase y UI moderna.
-* **🤝 [Club Vya](https://github.com/ykoutl/club-vya)**: Aplicación web para el club de vecinos y amigos.
-* **⛪ [San Francisco de Asís](https://github.com/ykoutl/san-francisco-de-asis)**: Sistema de gestión institucional.
-* **📱 [AppGuiaAuxilios](https://github.com/ykoutl/AppGuiaAuxilios)**: Aplicación móvil offline de primeros auxilios con React Native.
-* **🤖 [Planet-Bot](https://github.com/ykoutl/planet-bot)**: Bot de soporte inteligente para procesos internos.
+
+<h2 align="left">
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="22" />
+  Featured Projects
+</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> Nos Planet
+</h3>
+
+Plataforma web de ingeniería sostenible desarrollada con React, Vite y WordPress REST API.
+
+🔗 https://nosplanet.org
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> Go Recycle
+</h3>
+
+Aplicación web enfocada en la gestión y promoción del reciclaje.
+
+🔗 https://go-recycle.app
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+<h3>
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/cpu.svg" width="18"/>
+Planet Bot</h3>
+
+Bot inteligente para automatización de consultas y asistencia interna mediante IA.
+
+🔗 https://planet-bot.vercel.app
+
+</td>
+
+<td valign="top">
+
+<h3>
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> Escuela Milan VMT
+</h3>
+
+Sistema web para gestión deportiva desarrollado con React, Firebase y Tailwind CSS.
+
+🔗 https://escuela-milan-vmt.vercel.app
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+<h3>
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="18"/> Club Vya
+</h3>
+
+Aplicación web para la administración del Club Vecinos y Amigos de VMT.
+
+🔗 https://club-vya.web.app
+
+</td>
+
+<td valign="top">
+
+<h3>
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="18"/> Relatia
+</h3>
+
+Portal y foro académico para estudiantes de Relaciones Internacionales orientado a la difusión de contenido, eventos y publicaciones.
+
+🔗 https://relatia.org
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+<h3>
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="18"/> Anthongc
+</h3>
+
+Espacio digital dedicado a la reflexión, la literatura y la arquitectura construido como una SPA moderna.
+
+🔗 https://anthongc.org
+
+</td>
+
+<td valign="top">
+
+<h3>
+<img src="https://cdn.simpleicons.org/vercel/ffffff" width="18"/> Personal Portfolio
+</h3>
+
+Portafolio personal desarrollado con React y Tailwind CSS, donde presento mis proyectos y experiencia.
+
+🔗 https://raulquin-dev.vercel.app
+
+</td>
+</tr>
+</table>
+
+
 
 ---
 
@@ -47,6 +152,6 @@ Actualmente colaboro en proyectos de impacto real como Full Stack Developer y as
 
 ### 📫 Conectemos
 
-* 🌐 **Portafolio:** [ykoutl.github.io](https://ykoutl.github.io)
+* 🌐 **Portafolio:** [https://raulquin-dev.vercel.app](https://raulquin-dev.vercel.app)
 * 💼 **LinkedIn:** [Raul Quintana](https://linkedin.com/in/tu-perfil)
 * 📧 **Email:** [raulquintanazinc@gmail.com](mailto:raulquintanazinc@gmail.com)
