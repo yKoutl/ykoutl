@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Raul+Quintana" alt="Raul Quintana typing effect" />
+  <img src="./banner.svg" width="100%" alt="Banner de Raúl Quintana" />
 </p>
 
 ### 👨‍💻 Sobre mí
