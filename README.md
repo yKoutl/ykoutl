@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy estudiante de **9no ciclo de Ingeniería Informática** en la **Universidad Ricardo Palma (URP)**.  
+Soy estudiante de **10mo ciclo de Ingeniería Informática** en la **Universidad Ricardo Palma (URP)**.  
 Me especializo en el desarrollo de software escalable, integrando **IA** y soluciones de **Ingeniería Sostenible**.  
 
 Actualmente colaboro en proyectos de impacto real como Full Stack Developer y aspiro a especializarme en **Data Analysis**.
