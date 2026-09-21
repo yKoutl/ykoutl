@@ -92,6 +92,16 @@ Actualmente colaboro en proyectos de impacto real como Full Stack Developer y as
   />
 </p>
 
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ykoutl&theme=radical"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ykoutl&theme=radical&utcOffset=-5"
+  />
+</p>
 ---
 
 ### 📫 Conectemos
