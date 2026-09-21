@@ -84,8 +84,12 @@ Actualmente colaboro en proyectos de impacto real como Full Stack Developer y as
 
 ### 📊 Estadísticas de Desarrollo
 
-<p align="center" width="100%">
-  <img src="https://streak-stats.demolab.com?user=ykoutl&theme=radical&hide_border=true" height="300" alt="GitHub Streak" />
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ykoutl&theme=radical&hide_border=true"
+    width="750"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
