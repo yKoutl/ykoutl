@@ -86,7 +86,6 @@ Actualmente colaboro en proyectos de impacto real como Full Stack Developer y as
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ykoutl&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ykoutl&theme=radical&hide_border=true&area=true" height="150" alt="Activity Graph" />
 </p>
 
 ---
